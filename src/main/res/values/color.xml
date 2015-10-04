@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="initialBackground">#000000</color>
+    <color name="coldDay">#176ced</color>
+    <color name="hotDay">#d8432e</color>
+    <color name="averageDay">#009755</color>
+</resources>
